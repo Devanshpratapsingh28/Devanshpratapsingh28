@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devansh Pratap Singh, a 2nd Year Comuter Science Btech Student at NIT Patna.
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning Recurrent Neural Network
-- 📫 You can reach me through my email : devanshprataps6@gmail.com
+- 📫 You can reach me through my email : devanshs.ug23.cs@nitp.ac.in
 - 😄 Pronouns: He/Him
 - I love to discover insights from data.
 - I am proficient in languages like Java ,Python.
