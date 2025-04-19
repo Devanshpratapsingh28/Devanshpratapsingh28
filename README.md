@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Science and Machine Learning.
 - ✨ I love to discover insights from data.
 - 🌟 I am proficient in languages like Java ,Python.
-- 🌱 I’m currently learning Recurrent Neural Network
 - 📫 You can reach me through my email : devanshs.ug23.cs@nitp.ac.in
 - 😄 Pronouns: He/Him
 
