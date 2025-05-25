@@ -1,11 +1,34 @@
-- 👋 Hi, I’m Devansh, a 2nd Year Computer Science Btech Student at NIT Patna.
-- 👀 I’m interested in Data Science and Machine Learning.
-- ✨ I love to discover insights from data.
-- 🌟 I am proficient in languages like Java ,Python.
-- 📫 You can reach me through my email : devanshs.ug23.cs@nitp.ac.in
-- 😄 Pronouns: He/Him
+# Hello, I'm Devansh
 
-<!---
-Devanshpratapsingh28/Devanshpratapsingh28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a second-year **B.Tech Computer Science** student at **NIT Patna** with a strong foundation in **Machine Learning**, **Data Science**, and **Deep Learning**. I enjoy working with data and take pleasure in discovering insights from it.
+
+### About Me
+I'm passionate about solving real-world problems using data-driven methods. I love building models that learn from data and creating systems that make intelligent decisions.
+
+### 👀 Interests
+- Machine Learning & Deep Learning  
+- Data Science & Predictive Analytics  
+- Natural Language Processing
+
+### Skills
+- **Languages:** Python, Java  
+- **ML/DL Frameworks:** Scikit-learn, TensorFlow, Keras  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
+- **Core Concepts:**  
+  - Supervised & Unsupervised Learning  
+  - Neural Networks (CNNs, RNNs)  
+  - Model Evaluation & Optimization  
+
+### Contact
+- Email: [devanshs.ug23.cs@nitp.ac.in](mailto:devanshs.ug23.cs@nitp.ac.in)
+
+### Pronouns
+He/Him
+
+---
+
+
+### 📊 GitHub Stats
+
+![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devanshpratapsingh28&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshpratapsingh28&layout=compact&theme=radical)
