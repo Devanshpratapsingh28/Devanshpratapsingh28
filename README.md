@@ -29,6 +29,15 @@ He/Him
 
 
 ### 📊 GitHub Stats
+<!-- Profile Views Counter -->
+<!-- <img src="https://komarev.com/ghpvc/?username=Devanshpratapsingh28&label=Profile%20views&color=green&style=flat&logo=github" alt="Profile Views" width="200"/> 
 
+<br>  -->
+
+<!-- GitHub Stats -->
 ![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devanshpratapsingh28&show_icons=true&theme=radical)
+
+<br>
+
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshpratapsingh28&layout=compact&theme=radical)
