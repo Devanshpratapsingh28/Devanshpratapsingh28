@@ -10,6 +10,10 @@ I'm passionate about solving real-world problems using data-driven methods. I lo
 - Data Science & Predictive Analytics  
 - Natural Language Processing
 
+### Currently Learning
+- Web Development
+- Natural Language Processing
+ 
 ### Skills
 - **Languages:** Python, Java  
 - **ML/DL Frameworks:** Scikit-learn, TensorFlow, Keras  
