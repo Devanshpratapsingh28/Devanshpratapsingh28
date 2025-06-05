@@ -2,9 +2,6 @@
 
 I'm a second-year **B.Tech Computer Science** student at **NIT Patna** with a strong foundation in **Machine Learning**, **Data Science**, and **Deep Learning**. I enjoy working with data and take pleasure in discovering insights from it.
 
-### About Me
-I'm passionate about solving real-world problems using data-driven methods. I love building models that learn from data and creating systems that make intelligent decisions.
-
 ### Interests
 - Machine Learning & Deep Learning  
 - Data Science & Predictive Analytics  
