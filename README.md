@@ -8,12 +8,12 @@ I'm a second-year **B.Tech Computer Science** student at **NIT Patna** with a st
 - Natural Language Processing
 
 ### Currently Learning
-- Web Development
 - Natural Language Processing
  
 ### Skills
 - **Languages:** Python, Java  
-- **ML/DL Frameworks:** Scikit-learn, TensorFlow, Keras  
+- **ML/DL Frameworks:** Scikit-learn, TensorFlow, Keras   
+- **Web Technologies / Frameworks:** Flask, HTML, CSS  
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
 - **Core Concepts:**  
   - Supervised & Unsupervised Learning  
