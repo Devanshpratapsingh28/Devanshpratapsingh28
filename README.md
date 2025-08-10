@@ -7,9 +7,6 @@ I'm a second-year **B.Tech Computer Science** student at **NIT Patna** with a st
 - Data Science & Predictive Analytics  
 - Natural Language Processing
 
-### Currently Learning
-- Natural Language Processing
- 
 ### Skills
 - **Languages:** Python, Java  
 - **ML/DL Frameworks:** Scikit-learn, TensorFlow, Keras   
