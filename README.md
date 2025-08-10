@@ -1,6 +1,6 @@
 # Hello, I'm Devansh
 
-I'm a second-year **B.Tech Computer Science** student at **NIT Patna** with a strong foundation in **Machine Learning**, **Data Science**, and **Deep Learning**. I enjoy working with data and take pleasure in discovering insights from it.
+I'm a third-year **B.Tech Computer Science** student at **NIT Patna** with a strong foundation in **Machine Learning**, **Data Science**, and **Deep Learning**. I enjoy working with data and take pleasure in discovering insights from it.
 
 ### Interests
 - Machine Learning & Deep Learning  
