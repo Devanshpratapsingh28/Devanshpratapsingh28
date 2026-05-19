@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Devansh
 
-🎓 Third-year **B.Tech Computer Science student at NIT Patna**  
+🎓 Final-year **B.Tech Computer Science student at NIT Patna**  
 💡 Interested in **Machine Learning, Data Science, and Deep Learning**
 
 I enjoy working with data and building models that extract meaningful insights and help solve real-world problems.
@@ -27,7 +27,6 @@ I enjoy working with data and building models that extract meaningful insights a
 ### 🤖 Machine Learning / Deep Learning
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 🌐 Web Technologies
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
